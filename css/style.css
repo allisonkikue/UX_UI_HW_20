@@ -74,6 +74,9 @@ h4, p {
     transform: translateX(-50%);
      z-index: -1;
 }
+body {
+    overflow-x: hidden;
+}
 /* Navbar */
 .bg-custom {
     background-color:#343C32;
